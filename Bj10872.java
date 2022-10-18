@@ -8,17 +8,18 @@ public class Bj10872 {
 		int nMax = sc.nextInt();
 		
 		
+		System.out.println(factorial(nMax));
 		sc.close();
 		
 
 	}
 	
 	static int factorial(int nSize) {
-		int result = 0;
 		
-		
-		
-	 	return result;
+		if(nSize<=1) {
+			return 1;
+		}
+	 	return nSize*factorial(nSize-1);
 	}
 
 }

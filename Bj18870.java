@@ -18,16 +18,9 @@ public class Bj18870 {
 		StringTokenizer st= new StringTokenizer(br.readLine()," ");
 
 		for(int i=0;i<nMax;i++) {
-			
 			arrOrigin[i]=Integer.parseInt(st.nextToken());
-			arrSorted[i]=arrOrigin[i];
-			
+			arrSorted[i]=arrOrigin[i];	
 		}
-		
-		
-		
-		
-		
 		Arrays.sort(arrSorted);
 		
 		int rank = 0;
