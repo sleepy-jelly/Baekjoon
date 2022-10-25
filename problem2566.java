@@ -8,8 +8,8 @@ public class problem2566 {
 		
 		int[][] arr = new int[9][9];
 		int nMax = 0;
-		int x=0;
-		int y=0;
+		int x=1;
+		int y=1;
 		for(int i =0;i<arr.length;i++) {
 			for(int j=0;j<arr[0].length;j++) {
 				arr[i][j]=sc.nextInt();
