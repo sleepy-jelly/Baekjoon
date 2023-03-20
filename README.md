@@ -1,13 +1,11 @@
 # Baekjoon
 
-
-
+is
 about 
 solving algorithm
 
 
-
-used
+using
 baekjoon website
 https://www.acmicpc.net/
 
