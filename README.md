@@ -1,8 +1,7 @@
 # Baekjoon
 
 is
-about 
-solving algorithm
+about algorithm
 
 
 https://www.acmicpc.net/
